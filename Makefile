@@ -34,6 +34,7 @@ rtw88-objs += main.o \
 	   phy.o \
 	   efuse.o \
 	   fw.o \
+	   bf.o \
 	   ps.o \
 	   sec.o \
 	   regd.o
